@@ -152,6 +152,7 @@ namespace WinFormsApp1
 
         private void button3_Click(object sender, EventArgs e)
         {
+            //a comment to test on github
             int r, g, b;
             r = Convert.ToInt32(textBox4.Text);
             g = Convert.ToInt32(textBox5.Text);
